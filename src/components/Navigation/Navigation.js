@@ -4,7 +4,9 @@ import React from 'react';
 const Navigation = () => {
     return(
         <nav>
-            <p> Sign Out</p>
+            <p> Sign Out!!</p>
         </nav>
     )
 }
+
+export default Navigation;

@@ -1,3 +1,6 @@
+# Face-AI is an application which identifies the face of the uploaded picture!!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -3,8 +3,8 @@ import React from 'react';
 
 const Navigation = () => {
     return(
-        <nav>
-            <p> Sign Out!!</p>
+        <nav style={{display: 'flex', justifyContent: 'flex-end'}}>
+            <button className='f5 link dim pa1 pointer white bg-navy br3'> Sign Out</button>
         </nav>
     )
 }
